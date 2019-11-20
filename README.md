@@ -1,2 +1,2 @@
-Hello everyone, who reads this message!
+Hi everyone. This changes for pull merge mistake.
 
